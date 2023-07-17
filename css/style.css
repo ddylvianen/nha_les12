@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    height: 100vh;
+}
+header{
+    height: 25%;
+    background-color: rgb(128, 105, 0);
+}
+
+footer{
+    height: 30%;
+    background-color: brown;
+}
+
+table{
+    height: 40%;
+    width: 100%;
+}
+
+td{
+    height: 250px;
+    width: 200px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+img{
+    height: 90%;
+    width: 90%;
+}
+
+#cell1{ background-color: rgb(10, 250, 2); color: aqua;}
+#cell2{ background-color: rgb(160, 200, 222); color: antiquewhite;}
+#cell3{ background-color: rgb(230, 170, 200); color: blue;}
+#cell4{ background-color: rgb(40, 150, 140); color: brown;}
+#cell5{ background-color: rgb(50, 130, 170);}
+#cell6{ background-color: rgb(60, 120, 70);}
+#cell7{ background-color: rgb(70, 110, 0);}
+#cell8{ background-color: rgb(80, 100, 80); color: chartreuse;}
+#cell9{ background-color: rgb(90, 80, 210); color: chocolate;}
+#cell10{ background-color: rgb(200, 90, 255); color: black;}
+#cell11{ background-color: rgb(110, 70, 60); color: darkkhaki;}
+#cell12{ background-color: rgb(170, 162, 240);}
+#cell13{ background-color: rgb(130, 55, 150);}
+#cell14{ background-color: rgb(150, 144, 100);}
+#cell15{ background-color: rgb(170, 90, 90);}
+#cell16{ background-color: rgb(200, 20, 42);}
